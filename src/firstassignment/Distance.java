@@ -12,7 +12,7 @@ import java.util.Scanner;
 public class Distance {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the distance in meters: ");
+        System.out.println("Enter the distance in meters:  ");
         double distance = sc.nextDouble();
         System.out.println("Enter the hour: ");
         double time_hour = sc.nextDouble();
