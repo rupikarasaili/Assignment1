@@ -17,7 +17,7 @@ public class SquareStar{
             System.out.println();
         }
     }
-    public static void main(String[] args) {
+    public static void main(String[] args){
         int row = 5 ;
         int column = 5 ;
         Squarestar(row, column);
