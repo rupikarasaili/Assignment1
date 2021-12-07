@@ -9,7 +9,7 @@ public class Two
         String str, rev = " ";
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Enter a string: ");
+        System.out.println("Enter a string : ");
         str = sc.nextLine();
 
         int length = str.length();
