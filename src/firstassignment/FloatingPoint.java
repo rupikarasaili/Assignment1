@@ -7,7 +7,7 @@ public class FloatingPoint {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the first float number:");
         float fnum1 = sc.nextFloat();
-        System.out.println("enter the second float number:");
+        System.out.println("enter the second float number: ");
         float fnum2 = sc.nextFloat();
 
         if (Math.abs(fnum1 - fnum2) <= 0.01){
