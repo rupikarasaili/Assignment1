@@ -7,7 +7,7 @@ public class Integers{
     public static void main(String[] args) {
         int sum = 0;
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter integers with firstassignment.one space gap:");
+        System.out.println("Enter integers with firstassignment.one space gap: ");
         String t = sc.nextLine();
         StringTokenizer st = new StringTokenizer(t, " ");
         while (st.hasMoreTokens()) {
