@@ -10,7 +10,7 @@ public class IncreasingDecre {
         System.out.print("Enter the first number:");
         int first = sc.nextInt();
 
-        System.out.print("Enter the second number:");
+        System.out.print("Enter the second number: ");
         int second = sc.nextInt();
 
         System.out.print("Enter the third number:");
